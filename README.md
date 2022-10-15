@@ -1,2 +1,2 @@
 # APP_TGDD
-bắt đầu từ nhày 15/10/2022
+bắt đầu từ ngày 15/10/2022
